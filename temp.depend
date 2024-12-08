@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1733655985 source:c:\users\jean-\desktop\hivegame\action.cpp
+	"Action.h"
+
+1733655985 c:\users\jean-\desktop\hivegame\action.h
+	"Insecte.h"
+	"Plateau.h"
+	"Joueur.h"
+	<functional>
+	<unordered_map>
+	<memory>
+	<iostream>
+
+1733655985 c:\users\jean-\desktop\hivegame\insecte.h
+	"Hexagon.h"
+	"Action.h"
+	"Plateau.h"
+	<string>
+	<iostream>
+	<functional>
+	<map>
+	<sstream>
+	<memory>
+	<set>
+	<algorithm>
+
+1733655985 c:\users\jean-\desktop\hivegame\hexagon.h
+	<iostream>
+	<vector>
+
+1733655985 c:\users\jean-\desktop\hivegame\plateau.h
+	"Insecte.h"
+	"Hexagon.h"
+	<map>
+	<vector>
+	<limits>
+	<iostream>
+
+1733662144 c:\users\jean-\desktop\hivegame\joueur.h
+	"Insecte.h"
+	<vector>
+	<cstdlib>
+	<ctime>
+	<random>
+	<stdexcept>
+	<map>
+	<limits>
+
+1733655985 source:c:\users\jean-\desktop\hivegame\gamemaster.cpp
+	"GameMaster.h"
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	"GameMaster.h"
+	"Insecte.h"
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	"GameMaster.h"
+	"Insecte.h"
+	<fstream>
+	<sstream>
+	<fstream>
+	<sstream>
+	<fstream>
+	<sstream>
+	<iostream>
+	<stdexcept>
+
+1733655985 c:\users\jean-\desktop\hivegame\gamemaster.h
+	<fstream>
+	"Joueur.h"
+	"Plateau.h"
+	"Action.h"
+	<iostream>
+	<memory>
+	<limits>
+	<deque>
+
+1733655985 source:c:\users\jean-\desktop\hivegame\hexagon.cpp
+	"Hexagon.h"
+	<sstream>
+
+1733655985 source:c:\users\jean-\desktop\hivegame\insecte.cpp
+	"Insecte.h"
+
+1733655985 source:c:\users\jean-\desktop\hivegame\joueur.cpp
+	"Joueur.h"
+	<sstream>
+
+1733655985 source:c:\users\jean-\desktop\hivegame\main.cpp
+	"GameMaster.h"
+
+1733655985 source:c:\users\jean-\desktop\hivegame\plateau.cpp
+	"Plateau.h"
+
